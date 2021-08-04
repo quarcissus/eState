@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eState/static/css/main.4b6b2dbd.chunk.css",
+    "main.js": "/eState/static/js/main.83fce6f1.chunk.js",
+    "main.js.map": "/eState/static/js/main.83fce6f1.chunk.js.map",
+    "runtime-main.js": "/eState/static/js/runtime-main.beda8c5f.js",
+    "runtime-main.js.map": "/eState/static/js/runtime-main.beda8c5f.js.map",
+    "static/js/2.10096598.chunk.js": "/eState/static/js/2.10096598.chunk.js",
+    "static/js/2.10096598.chunk.js.map": "/eState/static/js/2.10096598.chunk.js.map",
+    "static/js/3.e6d0c9fd.chunk.js": "/eState/static/js/3.e6d0c9fd.chunk.js",
+    "static/js/3.e6d0c9fd.chunk.js.map": "/eState/static/js/3.e6d0c9fd.chunk.js.map",
+    "index.html": "/eState/index.html",
+    "static/css/main.4b6b2dbd.chunk.css.map": "/eState/static/css/main.4b6b2dbd.chunk.css.map",
+    "static/js/2.10096598.chunk.js.LICENSE.txt": "/eState/static/js/2.10096598.chunk.js.LICENSE.txt",
+    "static/media/landing.26320c4b.jpeg": "/eState/static/media/landing.26320c4b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beda8c5f.js",
+    "static/js/2.10096598.chunk.js",
+    "static/css/main.4b6b2dbd.chunk.css",
+    "static/js/main.83fce6f1.chunk.js"
+  ]
+}
